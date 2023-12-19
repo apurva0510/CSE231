@@ -1,0 +1,48 @@
+**************************************************
+*   Welcome to the world of 'dumbcrypt,' where cryptography meets comedy! 
+    We're combining Affine Cipher with Caesar Cipher to create a code 
+    so 'dumb,' it's brilliant. 
+    Remember, in 'dumbcrypt,' spaces are as rare as a unicorn wearing a top hat! 
+    Let's dive into this cryptographic comedy adventure! *
+**************************************************
+
+Input a rotation (int): 4
+
+
+Input a command (e)ncrypt, (d)ecrypt, (q)uit: e
+
+Input a string to encrypt: Hello,World!
+
+Plain text: Hello,World!
+
+Cipher text: dyxxc:gcrxt%
+
+
+Input a command (e)ncrypt, (d)ecrypt, (q)uit: d
+
+Input a string to decrypt: dyxxc:gcrxt%
+
+Cipher text: dyxxc:gcrxt%
+
+Plain text: hello,world!
+
+
+Input a command (e)ncrypt, (d)ecrypt, (q)uit: e
+
+Input a string to encrypt: Fahrenheit-451?
+
+Plain text: Fahrenheit-451?
+
+Cipher text: 3edry7dyi1;kp5]
+
+
+Input a command (e)ncrypt, (d)ecrypt, (q)uit: d
+
+Input a string to decrypt: 3edry7dyi1;kp5]
+
+Cipher text: 3edry7dyi1;kp5]
+
+Plain text: fahrenheit-451?
+
+
+Input a command (e)ncrypt, (d)ecrypt, (q)uit: q

@@ -1,0 +1,5 @@
+Goldberg, Adele        94   96   90  91
+Hopper, Grace        100   98   87  97
+Kernighan, Brian      89  74   89  77
+Knuth, Donald           82    87  92  81
+Liskov, Barbara           87 97   81  85

@@ -1,0 +1,19 @@
+"\nMORTGAGE PLANNING CALCULATOR\n============================ "
+"\nEnter a value for each of the following items or type 'NA' if unknown "
+"\nWhere is the house you are considering (Seattle, San Francisco, Austin, East Lansing)? "
+"\nWhat is the maximum square footage you are considering? "
+"\nWhat is the maximum monthly payment you can afford? "
+"\nHow much money can you put down as a down payment? "
+"\nWhat is the current annual percentage rate? "
+"\nWould you like to print the monthly payment schedule (Y or N)? "
+"\nUnknown location. Using national averages for price per square foot and tax rate."
+"\nYou must either supply a desired square footage or a maximum monthly payment. Please try again."
+"\nWould you like to make another attempt (Y or N)? "
+
+'\n\nIn {}, an average {} sq. foot house would cost ${}.'
+'A 30-year fixed rate mortgage with a down payment of ${} at {}% APR results'
+'\tin an expected monthly payment of ${} (taxes) + ${} (mortgage payment) = ${}'
+'\n{}|{}|{}|{}'  #the string for the table header
+'{}| ${} | ${} | ${}' #the string for the data in the table format
+'\n\nIn {}, a maximum monthly payment of ${} allows the purchase of a house of {} sq. feet for ${}'
+'\t assuming a 30-year fixed rate mortgage with a ${} down payment at {}% APR.'

@@ -1,0 +1,35 @@
+**************************************************
+*   Welcome to the world of 'dumbcrypt,' where cryptography meets comedy! 
+    We're combining Affine Cipher with Caesar Cipher to create a code 
+    so 'dumb,' it's brilliant. 
+    Remember, in 'dumbcrypt,' spaces are as rare as a unicorn wearing a top hat! 
+    Let's dive into this cryptographic comedy adventure! *
+**************************************************
+
+Input a rotation (int): x
+
+Error; rotation must be an integer.
+Input a rotation (int): 1.2
+
+Error; rotation must be an integer.
+Input a rotation (int): 8
+
+
+Input a command (e)ncrypt, (d)ecrypt, (q)uit: d
+
+Input a string to decrypt: cg)cv22b+
+
+Cipher text: cg)cv22b+
+
+Plain text: go!green#
+
+
+Input a command (e)ncrypt, (d)ecrypt, (q)uit: e
+
+Input a string to encrypt: hello world
+
+Error with character:  
+Cannot encrypt this string.
+
+
+Input a command (e)ncrypt, (d)ecrypt, (q)uit: q
